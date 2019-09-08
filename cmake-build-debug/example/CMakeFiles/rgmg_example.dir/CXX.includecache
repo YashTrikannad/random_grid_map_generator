@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/generator.h
+vector
+-
+random
+-
+
+/home/yash/CLionProjects/random_grid_map_generator/example/example.cpp
+iostream
+-
+generator.h
+/home/yash/CLionProjects/random_grid_map_generator/example/generator.h
+

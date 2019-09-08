@@ -1,0 +1,2 @@
+add_executable(rgmg_example example.cpp)
+target_link_libraries(rgmg_example generator)
