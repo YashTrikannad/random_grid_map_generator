@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/rgmg_example.dir/example.cpp.o  -o rgmg_example 

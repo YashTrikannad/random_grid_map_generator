@@ -1,4 +1,0 @@
-/snap/clion/82/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yash/CLionProjects/random_grid_map_generator
--- Configuring done
--- Generating done
--- Build files have been written to: /home/yash/CLionProjects/random_grid_map_generator/cmake-build-debug
